@@ -7,7 +7,7 @@ a.this_buttons = {}
 a.newButton = function(id,text,work,x,y,width,height,color,colorclicked,func)
    table.insert(a.this_buttons, {
       id = id,
-      work = work, 
+      work = work,
       text =text,
       x=x,
       y=y,
